@@ -6,9 +6,19 @@
 
 ## Connect with Me
 
-[![CodeChef](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg)](https://www.codechef.com/users/umamazaman)
-[![Codeforces](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg)](https://codeforces.com/profile/umamazaman3)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/sumaia-zaman-umama-13uma)
+<p align="left">
+  <a href="https://www.codechef.com/users/umamazaman" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/umamazaman3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sumaia-zaman-umama-13uma" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 
 ---
