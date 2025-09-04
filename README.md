@@ -12,13 +12,14 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/umamazaman3" target="_blank">
-    <img src="https://sta.codeforces.com/s/53925/images/codeforces-logo-round.png" alt="Codeforces" width="40" height="40"/>
+    <img src="https://codeforces.com/s/53925/images/codeforces-logo-round.png" alt="Codeforces" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sumaia-zaman-umama-13uma" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
