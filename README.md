@@ -3,6 +3,14 @@
 🎓 I'm a student who enjoys learning programming and solving problems.  
 💻 I work with multiple programming languages and databases.  
 
+
+## Connect with Me
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-ff5c37?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/umamazaman)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/umamazaman3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaia-zaman-umama-13uma)
+
+
 ---
 
 ### 🔧 Languages I Know:
