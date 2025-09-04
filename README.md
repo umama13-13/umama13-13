@@ -6,23 +6,9 @@
 
 ## Connect with Me
 
-<p align="left">
-  <a href="https://www.codechef.com/users/umamazaman" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Codechef_logo.svg" alt="CodeChef" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/umamazaman3" target="_blank">
-    <img src="https://codeforces.com/s/53925/images/codeforces-logo-round.png" alt="Codeforces" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sumaia-zaman-umama-13uma" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?&logo=codechef&logoColor=white)](https://www.codechef.com/users/umama13-13)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&logo=codeforces&logoColor=white)](https://codeforces.com/profile/umama13-13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/umama13-13)
 ---
 
 ### 🔧 Languages I Know:
