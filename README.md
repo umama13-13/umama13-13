@@ -8,17 +8,18 @@
 
 <p align="left">
   <a href="https://www.codechef.com/users/umamazaman" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Codechef_logo.svg" alt="CodeChef" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/umamazaman3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://sta.codeforces.com/s/53925/images/codeforces-logo-round.png" alt="Codeforces" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sumaia-zaman-umama-13uma" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
